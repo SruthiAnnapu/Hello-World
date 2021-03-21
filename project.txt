@@ -1,0 +1,15 @@
+
+
+200*1000
+each palayer = 100kbs
+200*1000*100kbs=total bandwidth 30 mins sessinon
+
+ISP
+50000 combination -   how much i link capacity i have to purchase from ISP  
+25000 combination   - how much i link capacity i have to purchase from ISP
+17000 combination   - how much i link capacity i have to purchase from ISP
+
+Routher and swith
+
+Server
+
